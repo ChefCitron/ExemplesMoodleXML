@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <question type="truefalse">
     <questiontext format="html">
-<<<<<<< HEAD
         <text>T or F</text>
-=======
-        <text>true or false ?</text>
->>>>>>> a7de2700aeb7972fed74d08bb92cd28950acb690
+
     </questiontext>
     <answer fraction="100">
         <text>true</text>
