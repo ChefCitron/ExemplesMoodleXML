@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <question type="truefalse">
     <questiontext format="html">
-        <text>Vrai ou faux ?</text>
+        <text>true or false ?</text>
     </questiontext>
     <answer fraction="100">
         <text>true</text>
